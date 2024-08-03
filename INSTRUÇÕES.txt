@@ -1,0 +1,19 @@
+=== Avise que ja esta com o produto e qualifique a compra como POSITIVA (BOM) ===
+=== A senha e o suporte estão condicionados a esta ação. Pegue a senha  no contatos abaixo ===
+
+0 - Use a versão mais recente do netbeans v12.2
+    https://netbeans.apache.org/
+
+1 - Instale o Mysql5 na sua maquina usando usuario 'root' e senha 'root'. Apos crie um banco de dados nomeado de 'ecommerce'.
+
+2 - Na area administrativa use 'admin' 'admin' para logar.
+
+3 - No menu TODOS OS DEPARTAMENTOS os links não estão apontando para nenhuma pagina. 
+    O comprador deve elaborar as direções dos links de acordo com seu projeto, é apenas um modelo.
+
+
+
+ #SUPORTE 
+-deibidsonmesquita@yahoo.com.br
+-(98) 98103-3497 Whatsapp 
+-Mensagem Mercado Livre
